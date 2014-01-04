@@ -1,4 +1,0 @@
-Aceavatar
-=========
-
-Aceavatar Software Studio
